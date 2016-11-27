@@ -1,0 +1,19 @@
+{
+  "name": "meteor-tutorial-two",
+  "version": "1.0.0",
+  "description": "Microposts app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockchalkwushock/meteor-tutorial-two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockchalkwushock/meteor-tutorial-two/issues"
+  },
+  "homepage": "https://github.com/rockchalkwushock/meteor-tutorial-two#readme"
+}
